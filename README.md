@@ -33,14 +33,14 @@ make
 
 ```bash
 Sfsnake
-  |__ Fonts 		   //游戏文字所用到的字体
-  |__ img              //所用到的图片文件 目前只有用作头部的表情包
+  |__ Fonts 		           //游戏文字所用到的字体
+  |__ img                  //所用到的图片文件 目前只有用作头部的表情包
  	 	|__ head.png  
-  |__ Music 		   //游戏所需的音乐
-  		|__ bg_music.wav   //背景音乐
-  |__ Sounds           //运行动作所需的声音
+  |__ Music 		           //游戏所需的音乐
+  		|__ bg_music.wav     //背景音乐
+  |__ Sounds               //运行动作所需的声音
         |__ die.wav   	   //阵亡音乐
-  		|__ pickup.wav     //得分音乐
+  		|__ pickup.wav       //得分音乐
   |__src                   //实现代码
 ```
 
