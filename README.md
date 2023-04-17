@@ -35,7 +35,7 @@ make
 Sfsnake
   |__ Fonts 		           //游戏文字所用到的字体
   |__ img                  //所用到的图片文件 目前只有用作头部的表情包
- 	 	|__ head.png  
+ 	 	|__ head.png  			   //头部表情包图片
   |__ Music 		           //游戏所需的音乐
   		|__ bg_music.wav     //背景音乐
   |__ Sounds               //运行动作所需的声音
