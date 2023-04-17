@@ -1,4 +1,4 @@
-# Pj of Sfsnake
+# Project of Sfsnake
 OOP Course (COMP130135.04 Spring 2021) Project of Fudan University.
 
 ## 环境搭建
